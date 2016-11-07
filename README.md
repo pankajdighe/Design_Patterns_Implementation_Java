@@ -2,9 +2,9 @@
 
 This repository consists of simple implementation of Design Patterns using Java
 
-Adapater
-Chain of Responsibility
-Command
-Composite
+Adapater </br>
+Chain of Responsibility </br>
+Command </br>
+Composite </br>
 
 
